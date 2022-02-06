@@ -1,0 +1,15 @@
+{
+  "name": "demo_mibash",
+  "version": "1.0.0",
+  "description": "",
+  
+  "scripts": {
+    "start": "nodemon bash.js"
+  },
+  "keywords": [],
+  "author": "Tommy Torres",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
